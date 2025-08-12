@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, Arial, sans-serif; line-height: 1.6; }
+header { padding: 56px 24px; text-align: center; }
+main { max-width: 900px; margin: 0 auto; padding: 24px; }
+h1 { margin: 0 0 8px; }
+section { background: #f7f7f9; border-radius: 16px; padding: 20px; margin: 16px 0; }
+footer { text-align: center; padding: 24px; color: #666; }
